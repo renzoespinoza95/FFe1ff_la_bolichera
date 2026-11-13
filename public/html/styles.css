@@ -61,7 +61,12 @@ h1, h2, h3, h4, .title {
 .header-side a { color: var(--text); font-weight: 600; }
 .brand { display: flex; align-items: center; gap: .6rem; }
 .brand img { width: 42px; height: 42px; border-radius: 50%; object-fit: cover; }
-.brand-name { font-family: var(--font-deco), cursive; font-size: 2rem; color: var(--primary); line-height: 1; }
+.brand-name {
+  font-family: var(--font-deco), cursive;
+  font-size: 2rem;
+  color: var(--on-accent, var(--text));
+  line-height: 1;
+}
 .main-nav { display: flex; justify-content: center; flex-wrap: wrap; gap: .3rem 1.6rem; margin-top: .3rem; }
 .main-nav a { font-size: .7rem; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; color: var(--text); padding-bottom: 2px; border-bottom: 2px solid transparent; }
 .main-nav a:hover { color: var(--primary); border-color: var(--primary); }
