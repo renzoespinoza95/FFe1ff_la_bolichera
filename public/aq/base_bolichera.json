@@ -1,0 +1,1832 @@
+{
+  "status": "ok",
+  "negocio": {
+    "neg_id": 5,
+    "nombre": "La Bolichera",
+    "slug": "la-bolichera",
+    "img_logo": "https://picsum.photos/seed/la-bolichera-logo/200/200",
+    "celular_informes": "987654321"
+  },
+  "web": [
+    {
+      "cat_pag_web_id": 1,
+      "clave_txt": "txt_inicio",
+      "titulo": "inicio",
+      "metatag01": null,
+      "metatag02": null,
+      "url_img": "https://picsum.photos/seed/cat-la-bolichera/1400/600",
+      "is_visible": 1,
+      "orden": 1,
+      "neg_id": 5,
+      "texto01": "Lo mejor del mar peruano directamente a tu mesa con sabor tradicional",
+      "texto02": "Cebiches frescos, arroces marinos y cocteles artesanales en un ambiente acogedor",
+      "subcategorias": [
+        {
+          "subcat_pag_web_id": 1,
+          "titulo": "Marquesina",
+          "clave_txt": "txt_marquesina",
+          "descripcion": "Anuncios y beneficios destacados para nuestros clientes",
+          "url_img": null,
+          "is_visible": 1,
+          "orden": 1,
+          "cat_pag_web_id": 1,
+          "texto01": null,
+          "texto02": null,
+          "items": [
+            {
+              "item_pag_web_id": 1,
+              "clave_txt": "txt_marquesina_1",
+              "titulo": "Delivery rápido y seguro en Lima Metropolitana",
+              "url_amigable": null,
+              "contenido": "Llegamos con la temperatura ideal para conservar la frescura de cada plato marino",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 1,
+              "subcat_pag_web_id": 1,
+              "subtitulo_detalle": "Envios a domicilio",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 2,
+              "clave_txt": "txt_marquesina_2",
+              "titulo": "Pescam del dia extraido artesanalmente",
+              "url_amigable": null,
+              "contenido": "Trabajamos directamente con pescadores locales de la costa peruana",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 2,
+              "subcat_pag_web_id": 1,
+              "subtitulo_detalle": "Calidad garantizada",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 3,
+              "clave_txt": "txt_marquesina_3",
+              "titulo": "Barra libre de pisco sour los viernes por la noche",
+              "url_amigable": null,
+              "contenido": "Disfruta de nuestros cocteles de autor preparados con piscos seleccionados",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 3,
+              "subcat_pag_web_id": 1,
+              "subtitulo_detalle": "Promocion nocturna",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            }
+          ]
+        },
+        {
+          "subcat_pag_web_id": 2,
+          "titulo": "Propuesta",
+          "clave_txt": "txt_propuesta",
+          "descripcion": "Los tres pilares de nuestra propuesta gastronomica",
+          "url_img": null,
+          "is_visible": 1,
+          "orden": 2,
+          "cat_pag_web_id": 1,
+          "texto01": null,
+          "texto02": null,
+          "items": [
+            {
+              "item_pag_web_id": 4,
+              "clave_txt": "txt_propuesta_1",
+              "titulo": "Frescura incomparable",
+              "url_amigable": null,
+              "contenido": "Seleccionamos los mejores ejemplares marinos del dia para garantizar una experiencia unica",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 1,
+              "subcat_pag_web_id": 2,
+              "subtitulo_detalle": "Pesca del dia",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 1,
+                  "url_img": "https://picsum.photos/seed/propuesta-1-1/800/600",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 4
+                }
+              ],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 5,
+              "clave_txt": "txt_propuesta_2",
+              "titulo": "Recetas ancestrales",
+              "url_amigable": null,
+              "contenido": "Rescatamos la tradicion culinaria norteña y costeña en cada preparacion",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 2,
+              "subcat_pag_web_id": 2,
+              "subtitulo_detalle": "Sabor autentico",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 2,
+                  "url_img": "https://picsum.photos/seed/propuesta-2-1/800/600",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 5
+                }
+              ],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 6,
+              "clave_txt": "txt_propuesta_3",
+              "titulo": "Cocteleria marina",
+              "url_amigable": null,
+              "contenido": "Combinaciones perfectas a base de pisco e insumos peruanos para acompañar tus platos",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 3,
+              "subcat_pag_web_id": 2,
+              "subtitulo_detalle": "Barra exclusiva",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 3,
+                  "url_img": "https://picsum.photos/seed/propuesta-3-1/800/600",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 6
+                }
+              ],
+              "videos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_pag_web_id": 2,
+      "clave_txt": "txt_empresa",
+      "titulo": "empresa",
+      "metatag01": null,
+      "metatag02": null,
+      "url_img": "https://picsum.photos/seed/cat-empresa-la-bolichera/1400/600",
+      "is_visible": 1,
+      "orden": 2,
+      "neg_id": 5,
+      "texto01": "Sobre nosotros",
+      "texto02": "Conoce quiénes somos",
+      "subcategorias": [
+        {
+          "subcat_pag_web_id": 3,
+          "titulo": "Historia",
+          "clave_txt": "txt_historia",
+          "descripcion": "Nuestra trayectoria en la gastronomia marina",
+          "url_img": null,
+          "is_visible": 1,
+          "orden": 1,
+          "cat_pag_web_id": 2,
+          "texto01": null,
+          "texto02": null,
+          "items": [
+            {
+              "item_pag_web_id": 7,
+              "clave_txt": "txt_historia_titulo",
+              "titulo": "El inicio de una tradicion marina en Lima",
+              "url_amigable": "la-bolichera",
+              "contenido": "La Bolichera empezo como un pequeño local familiar dedicado a rescatar los secretos de la cocina costera. Con el paso de los años, nos consolidamos como punto de encuentro obligado para los amantes del buen cebiche.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 1,
+              "subcat_pag_web_id": 3,
+              "subtitulo_detalle": "Nuestros origenes",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 4,
+                  "url_img": "https://picsum.photos/seed/historia-1-1/800/600",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 7
+                },
+                {
+                  "pag_item_img_id": 5,
+                  "url_img": "https://picsum.photos/seed/historia-1-2/800/600",
+                  "is_visible": 1,
+                  "orden": 2,
+                  "item_pag_web_id": 7
+                }
+              ],
+              "videos": [
+                {
+                  "pag_item_vid_id": 1,
+                  "titulo": "Documental de nuestra cocina",
+                  "codigo_web": "https://player.vimeo.com/video/1242172297",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 7,
+                  "url_img": "https://picsum.photos/seed/video-la-bolichera/200/150"
+                }
+              ]
+            },
+            {
+              "item_pag_web_id": 8,
+              "clave_txt": "txt_historia_hitos",
+              "titulo": "Hitos importantes",
+              "url_amigable": null,
+              "contenido": "2015 Apertura del primer local · 2018 Reconocimiento al mejor cebiche norteño · 2021 Expansión de barra marina · 2024 Lanzamiento de carta de cocteles de autor",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 2,
+              "subcat_pag_web_id": 3,
+              "subtitulo_detalle": "Línea de tiempo",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            }
+          ]
+        },
+        {
+          "subcat_pag_web_id": 4,
+          "titulo": "Mision y Vision",
+          "clave_txt": "txt_mision_vision",
+          "descripcion": "Propósito y horizonte institucional",
+          "url_img": null,
+          "is_visible": 1,
+          "orden": 2,
+          "cat_pag_web_id": 2,
+          "texto01": null,
+          "texto02": null,
+          "items": [
+            {
+              "item_pag_web_id": 9,
+              "clave_txt": "txt_mision",
+              "titulo": "Mision",
+              "url_amigable": null,
+              "contenido": "Brindar experiencias culinarias memorables a traves de platos marinos frescos, un servicio calido y estandares rigurosos de calidad.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 1,
+              "subcat_pag_web_id": 4,
+              "subtitulo_detalle": "Nuestro proposito",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 6,
+                  "url_img": "https://picsum.photos/seed/mision-1/800/600",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 9
+                }
+              ],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 10,
+              "clave_txt": "txt_vision",
+              "titulo": "Vision",
+              "url_amigable": null,
+              "contenido": "Ser reconocidos como la cebicheria de referencia en Lima por la innovacion en cocteleria y la fidelidad a los sabores marinos tradicionales.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 2,
+              "subcat_pag_web_id": 4,
+              "subtitulo_detalle": "Nuestra meta",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 7,
+                  "url_img": "https://picsum.photos/seed/vision-1/800/600",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 10
+                }
+              ],
+              "videos": []
+            }
+          ]
+        },
+        {
+          "subcat_pag_web_id": 5,
+          "titulo": "Valores",
+          "clave_txt": "txt_valores",
+          "descripcion": "Principios que guían nuestro trabajo diario",
+          "url_img": null,
+          "is_visible": 1,
+          "orden": 3,
+          "cat_pag_web_id": 2,
+          "texto01": null,
+          "texto02": null,
+          "items": [
+            {
+              "item_pag_web_id": 11,
+              "clave_txt": "txt_valor_1",
+              "titulo": "Frescura",
+              "url_amigable": null,
+              "contenido": "Garantizamos productos marinos del dia que cumplen estrictos controles de calidad.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 1,
+              "subcat_pag_web_id": 5,
+              "subtitulo_detalle": "Calidad innegociable",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 12,
+              "clave_txt": "txt_valor_2",
+              "titulo": "Tradicion",
+              "url_amigable": null,
+              "contenido": "Respetamos las recetas ancestrales de la costa peruana en cada preparacion.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 2,
+              "subcat_pag_web_id": 5,
+              "subtitulo_detalle": "Sabor autentico",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 13,
+              "clave_txt": "txt_valor_3",
+              "titulo": "Hospitalidad",
+              "url_amigable": null,
+              "contenido": "Atendemos a cada comensal con la cordialidad y alegria caracteristica del peruano.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 3,
+              "subcat_pag_web_id": 5,
+              "subtitulo_detalle": "Calidez en el servicio",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 14,
+              "clave_txt": "txt_valor_4",
+              "titulo": "Higiene",
+              "url_amigable": null,
+              "contenido": "Mantenemos protocolos rigurosos de limpieza en cocina y salon para tu tranquilidad.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 4,
+              "subcat_pag_web_id": 5,
+              "subtitulo_detalle": "Seguridad alimentaria",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_pag_web_id": 3,
+      "clave_txt": "txt_servicios",
+      "titulo": "servicios",
+      "metatag01": null,
+      "metatag02": null,
+      "url_img": "https://picsum.photos/seed/cat-servicios-la-bolichera/1400/600",
+      "is_visible": 1,
+      "orden": 3,
+      "neg_id": 5,
+      "texto01": "Servicios",
+      "texto02": "Experiencias diseñadas para los amantes de la buena mesa marina",
+      "subcategorias": [
+        {
+          "subcat_pag_web_id": 6,
+          "titulo": "Servicios Lista",
+          "clave_txt": "txt_servicios_lista",
+          "descripcion": "Opciones de atencion en salon, barra y eventos",
+          "url_img": null,
+          "is_visible": 1,
+          "orden": 1,
+          "cat_pag_web_id": 3,
+          "texto01": null,
+          "texto02": null,
+          "items": [
+            {
+              "item_pag_web_id": 15,
+              "clave_txt": "txt_serv_salon",
+              "titulo": "Atencion en Salon",
+              "url_amigable": null,
+              "contenido": "Un espacio moderno y comodo para disfrutar en familia o con amigos de nuestra carta marina completa.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 1,
+              "subcat_pag_web_id": 6,
+              "subtitulo_detalle": "Ambiente familiar",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 8,
+                  "url_img": "https://picsum.photos/seed/serv-salon-1/800/600",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 15
+                }
+              ],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 16,
+              "clave_txt": "txt_serv_barra",
+              "titulo": "Barra Marina",
+              "url_amigable": null,
+              "contenido": "Cocteleria fina a base de pisco, macerados artesanales y chilcanos preparados al momento.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 2,
+              "subcat_pag_web_id": 6,
+              "subtitulo_detalle": "Cocteles de autor",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 9,
+                  "url_img": "https://picsum.photos/seed/serv-barra-1/800/600",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 16
+                }
+              ],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 17,
+              "clave_txt": "txt_serv_delivery",
+              "titulo": "Delivery Marino",
+              "url_amigable": null,
+              "contenido": "Llevamos tus cebiches y arroces favoritos directamente a la comodidad de tu hogar conservando su textura.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 3,
+              "subcat_pag_web_id": 6,
+              "subtitulo_detalle": "Envio seguro",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 10,
+                  "url_img": "https://picsum.photos/seed/serv-delivery-1/800/600",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 17
+                }
+              ],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 18,
+              "clave_txt": "txt_serv_eventos",
+              "titulo": "Eventos Privados",
+              "url_amigable": null,
+              "contenido": "Organizamos celebraciones corporativas y familiares con estaciones marinas personalizadas.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 4,
+              "subcat_pag_web_id": 6,
+              "subtitulo_detalle": "Catering exclusivo",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 11,
+                  "url_img": "https://picsum.photos/seed/serv-eventos-1/800/600",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 18
+                }
+              ],
+              "videos": []
+            }
+          ]
+        },
+        {
+          "subcat_pag_web_id": 7,
+          "titulo": "Proceso",
+          "clave_txt": "txt_proceso",
+          "descripcion": "Pasos que seguimos para ofrecerte el mejor plato marino",
+          "url_img": null,
+          "is_visible": 1,
+          "orden": 2,
+          "cat_pag_web_id": 3,
+          "texto01": null,
+          "texto02": null,
+          "items": [
+            {
+              "item_pag_web_id": 19,
+              "clave_txt": "txt_paso_1",
+              "titulo": "1. Seleccion de insumos",
+              "url_amigable": null,
+              "contenido": "Revisamos cada pescado y marisco fresco que ingresa a nuestra cocina diariamente.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 1,
+              "subcat_pag_web_id": 7,
+              "subtitulo_detalle": "Paso inicial",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 20,
+              "clave_txt": "txt_paso_2",
+              "titulo": "2. Preparacion al momento",
+              "url_amigable": null,
+              "contenido": "Nuestros chefs cortan el pescado y preparan la leche de tigre justo al ordenar.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 2,
+              "subcat_pag_web_id": 7,
+              "subtitulo_detalle": "Corte preciso",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 21,
+              "clave_txt": "txt_paso_3",
+              "titulo": "3. Cocteleria de maridaje",
+              "url_amigable": null,
+              "contenido": "Preparamos el coctel ideal para complementar los sabores citricos y salinos de tus platos.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 3,
+              "subcat_pag_web_id": 7,
+              "subtitulo_detalle": "Armonia perfecta",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 22,
+              "clave_txt": "txt_paso_4",
+              "titulo": "4. Servido y disfrute",
+              "url_amigable": null,
+              "contenido": "Llevamos la creacion a tu mesa lista para que disfrutes de una experiencia inolvidable.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 4,
+              "subcat_pag_web_id": 7,
+              "subtitulo_detalle": "Experiencia final",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_pag_web_id": 4,
+      "clave_txt": "txt_clientes",
+      "titulo": "clientes",
+      "metatag01": null,
+      "metatag02": null,
+      "url_img": "https://picsum.photos/seed/cat-clientes-la-bolichera/1400/600",
+      "is_visible": 1,
+      "orden": 4,
+      "neg_id": 5,
+      "texto01": "Clientes",
+      "texto02": "Lo que opinan quienes disfrutan de nuestros sabores marinos",
+      "subcategorias": [
+        {
+          "subcat_pag_web_id": 8,
+          "titulo": "Testimonios",
+          "clave_txt": "txt_testimonios",
+          "descripcion": "Opiniones de nuestros comensales frecuentes",
+          "url_img": null,
+          "is_visible": 1,
+          "orden": 1,
+          "cat_pag_web_id": 4,
+          "texto01": null,
+          "texto02": null,
+          "items": [
+            {
+              "item_pag_web_id": 23,
+              "clave_txt": "txt_testimonio_1",
+              "titulo": "Restaurante El Timon",
+              "url_amigable": null,
+              "contenido": "El cebiche clasico tiene un punto de acidez perfecto y el pescado se deshace en la boca. Altamente recomendado.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 1,
+              "subcat_pag_web_id": 8,
+              "subtitulo_detalle": "Carlos Mendoza, Cliente Frecuente",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 12,
+                  "url_img": "https://picsum.photos/seed/cliente-1/200/200",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 23
+                }
+              ],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 24,
+              "clave_txt": "txt_testimonio_2",
+              "titulo": "Constructora del Mar",
+              "url_amigable": null,
+              "contenido": "Pedimos catering para nuestro evento corporativo y los piqueos marinos volaron. Excelente atencion y puntualidad.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 2,
+              "subcat_pag_web_id": 8,
+              "subtitulo_detalle": "Mariana Ruiz, Gerente de Operaciones",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 13,
+                  "url_img": "https://picsum.photos/seed/cliente-2/200/200",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 24
+                }
+              ],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 25,
+              "clave_txt": "txt_testimonio_3",
+              "titulo": "Estudio Juridico Lima",
+              "url_amigable": null,
+              "contenido": "Los cocteles de maracuya y el arroz con mariscos son simplemente espectaculares. El mejor lugar para almorzar los viernes.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 3,
+              "subcat_pag_web_id": 8,
+              "subtitulo_detalle": "Jorge Alva, Abogado Socio",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 14,
+                  "url_img": "https://picsum.photos/seed/cliente-3/200/200",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 25
+                }
+              ],
+              "videos": []
+            }
+          ]
+        },
+        {
+          "subcat_pag_web_id": 9,
+          "titulo": "Aliados",
+          "clave_txt": "txt_aliados",
+          "descripcion": "Marcas y proveedores con los que trabajamos",
+          "url_img": null,
+          "is_visible": 1,
+          "orden": 2,
+          "cat_pag_web_id": 4,
+          "texto01": null,
+          "texto02": null,
+          "items": [
+            {
+              "item_pag_web_id": 26,
+              "clave_txt": "txt_aliado_1",
+              "titulo": "Pisco Tres Cruces",
+              "url_amigable": null,
+              "contenido": "Distribuidor autorizado.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 1,
+              "subcat_pag_web_id": 9,
+              "subtitulo_detalle": "Pisco oficial",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 15,
+                  "url_img": "https://picsum.photos/seed/aliado-1/300/150",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 26
+                }
+              ],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 27,
+              "clave_txt": "txt_aliado_2",
+              "titulo": "Pesquera Oceano",
+              "url_amigable": null,
+              "contenido": "Distribuidor autorizado.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 2,
+              "subcat_pag_web_id": 9,
+              "subtitulo_detalle": "Insumos marinos",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 16,
+                  "url_img": "https://picsum.photos/seed/aliado-2/300/150",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 27
+                }
+              ],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 28,
+              "clave_txt": "txt_aliado_3",
+              "titulo": "Insumos del Norte",
+              "url_amigable": null,
+              "contenido": "Distribuidor autorizado.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 3,
+              "subcat_pag_web_id": 9,
+              "subtitulo_detalle": "Limones y ajies",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 17,
+                  "url_img": "https://picsum.photos/seed/aliado-3/300/150",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 28
+                }
+              ],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 29,
+              "clave_txt": "txt_aliado_4",
+              "titulo": "Cerveza Artesanal Costa",
+              "url_amigable": null,
+              "contenido": "Distribuidor autorizado.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 4,
+              "subcat_pag_web_id": 9,
+              "subtitulo_detalle": "Bebidas artesanales",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 18,
+                  "url_img": "https://picsum.photos/seed/aliado-4/300/150",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 29
+                }
+              ],
+              "videos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_pag_web_id": 5,
+      "clave_txt": "txt_contacto",
+      "titulo": "contacto",
+      "metatag01": null,
+      "metatag02": null,
+      "url_img": "https://picsum.photos/seed/cat-contacto-la-bolichera/1400/600",
+      "is_visible": 1,
+      "orden": 5,
+      "neg_id": 5,
+      "texto01": "Contáctanos",
+      "texto02": "Visítanos o comunícate con nosotros para reservas y pedidos",
+      "subcategorias": [
+        {
+          "subcat_pag_web_id": 10,
+          "titulo": "Datos de Contacto",
+          "clave_txt": "txt_datos_contacto",
+          "descripcion": "Informacion oficial de ubicacion y canales de comunicacion",
+          "url_img": null,
+          "is_visible": 1,
+          "orden": 1,
+          "cat_pag_web_id": 5,
+          "texto01": null,
+          "texto02": null,
+          "items": [
+            {
+              "item_pag_web_id": 30,
+              "clave_txt": "txt_direccion",
+              "titulo": "Av. Costanera 450, San Martin de Porres, Lima",
+              "url_amigable": null,
+              "contenido": "Av. Costanera 450, San Martin de Porres, Lima",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 1,
+              "subcat_pag_web_id": 10,
+              "subtitulo_detalle": "Ubicacion principal",
+              "is_visible": 1,
+              "imagenes": [
+                {
+                  "pag_item_img_id": 19,
+                  "url_img": "https://picsum.photos/seed/direccion-1/800/600",
+                  "is_visible": 1,
+                  "orden": 1,
+                  "item_pag_web_id": 30
+                }
+              ],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 31,
+              "clave_txt": "txt_telefono",
+              "titulo": "+51 987 654 321",
+              "url_amigable": null,
+              "contenido": "+51 999 888 777",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 2,
+              "subcat_pag_web_id": 10,
+              "subtitulo_detalle": "Telefono de reservas",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 32,
+              "clave_txt": "txt_horario",
+              "titulo": "Lunes a Domingo de 11:30 am a 5:00 pm",
+              "url_amigable": null,
+              "contenido": "Lunes a Domingo de 11:30 am a 5:00 pm",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 3,
+              "subcat_pag_web_id": 10,
+              "subtitulo_detalle": "Horario de atencion",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 33,
+              "clave_txt": "txt_email",
+              "titulo": "contacto@labolichera.example",
+              "url_amigable": null,
+              "contenido": "contacto@labolichera.example",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 4,
+              "subcat_pag_web_id": 10,
+              "subtitulo_detalle": "Correo electronico",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            }
+          ]
+        },
+        {
+          "subcat_pag_web_id": 11,
+          "titulo": "Preguntas Frecuentes",
+          "clave_txt": "txt_faq",
+          "descripcion": "Resolvemos tus dudas sobre reservas y pedidos",
+          "url_img": null,
+          "is_visible": 1,
+          "orden": 2,
+          "cat_pag_web_id": 5,
+          "texto01": null,
+          "texto02": null,
+          "items": [
+            {
+              "item_pag_web_id": 34,
+              "clave_txt": "txt_faq_1",
+              "titulo": "Cuentan con estacionamiento para clientes?",
+              "url_amigable": null,
+              "contenido": "Si, contamos con estacionamiento vehicular privado y seguridad permanente frente al local.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 1,
+              "subcat_pag_web_id": 11,
+              "subtitulo_detalle": "Estacionamiento",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 35,
+              "clave_txt": "txt_faq_2",
+              "titulo": "Se aceptan reservas para grupos grandes?",
+              "url_amigable": null,
+              "contenido": "Asi es, puedes realizar reservas para cumpleaños o reuniones familiares con al menos 24 horas de anticipacion.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 2,
+              "subcat_pag_web_id": 11,
+              "subtitulo_detalle": "Reservas grupales",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 36,
+              "clave_txt": "txt_faq_3",
+              "titulo": "Cual es el radio de cobertura para delivery?",
+              "url_amigable": null,
+              "contenido": "Cubrimos todo San Martin de Porres, Los Olivos, Cercado de Lima y distritos colindantes.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 3,
+              "subcat_pag_web_id": 11,
+              "subtitulo_detalle": "Cobertura de envio",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_pag_web_id": 6,
+      "clave_txt": "txt_meta_cat",
+      "titulo": "meta",
+      "metatag01": null,
+      "metatag02": null,
+      "url_img": "https://picsum.photos/seed/cat-meta-la-bolichera/1400/600",
+      "is_visible": 1,
+      "orden": 6,
+      "neg_id": 5,
+      "texto01": null,
+      "texto02": null,
+      "subcategorias": [
+        {
+          "subcat_pag_web_id": 12,
+          "titulo": "meta",
+          "clave_txt": "txt_meta",
+          "descripcion": "Configuracion de metadatos y enlaces de redes sociales",
+          "url_img": null,
+          "is_visible": 1,
+          "orden": 1,
+          "cat_pag_web_id": 6,
+          "texto01": null,
+          "texto02": null,
+          "items": [
+            {
+              "item_pag_web_id": 37,
+              "clave_txt": "txt_titulo",
+              "titulo": "La Bolichera",
+              "url_amigable": null,
+              "contenido": "La Bolichera",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 1,
+              "subcat_pag_web_id": 12,
+              "subtitulo_detalle": "Titulo web",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 38,
+              "clave_txt": "txt_meta_keywords",
+              "titulo": "Palabras clave",
+              "url_amigable": null,
+              "contenido": "cebiche, menu marino, pescado fresco, chilcano, pisco sour, jalea mixta, arroz con mariscos, restaurant",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 2,
+              "subcat_pag_web_id": 12,
+              "subtitulo_detalle": "Keywords SEO",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 39,
+              "clave_txt": "txt_meta_description",
+              "titulo": "Descripción SEO",
+              "url_amigable": null,
+              "contenido": "Disfruta del mejor menu marino, cebiches frescos y cocteles artesanales en La Bolichera. Calidad y sabor tradicional en Lima.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 3,
+              "subcat_pag_web_id": 12,
+              "subtitulo_detalle": "Meta description",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 40,
+              "clave_txt": "txt_mensaje_whasapp",
+              "titulo": "Mensaje de WhatsApp",
+              "url_amigable": null,
+              "contenido": "Hola vengo de la web de La Bolichera y deseo hacer una reserva o consulta de carta.",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 4,
+              "subcat_pag_web_id": 12,
+              "subtitulo_detalle": "Mensaje WhatsApp",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 41,
+              "clave_txt": "txt_tiktok",
+              "titulo": "TikTok",
+              "url_amigable": null,
+              "contenido": "https://www.tiktok.com/@la-bolichera",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 5,
+              "subcat_pag_web_id": 12,
+              "subtitulo_detalle": "Enlace TikTok",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 42,
+              "clave_txt": "txt_facebook",
+              "titulo": "Facebook",
+              "url_amigable": null,
+              "contenido": "https://www.facebook.com/la-bolichera",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 6,
+              "subcat_pag_web_id": 12,
+              "subtitulo_detalle": "Enlace Facebook",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            },
+            {
+              "item_pag_web_id": 43,
+              "clave_txt": "txt_dueno_restaurante",
+              "titulo": "Responsable",
+              "url_amigable": null,
+              "contenido": "Alonso Benavides",
+              "precio": 0.0,
+              "stock": 0,
+              "orden": 7,
+              "subcat_pag_web_id": 12,
+              "subtitulo_detalle": "Propietario y Administrador",
+              "is_visible": 1,
+              "imagenes": [],
+              "videos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pos": [
+    {
+      "category_id": 1,
+      "name": "Cebiches y Tiraditos",
+      "icon": "🐟",
+      "brief": "Platos frios a base de pescado fresco del dia",
+      "color": "#0288D1",
+      "priority": 1,
+      "neg_id": 5,
+      "categoria_global_id": null,
+      "is_activo": 1,
+      "clave_txt": "cat_cebiches-y-tiraditos",
+      "img": "https://picsum.photos/seed/poscat-cebiches-y-tiraditos/400/400",
+      "subcategorias": [
+        {
+          "subcategoria_id": 1,
+          "category_id": 1,
+          "nombre": "Cebiches Clasicos",
+          "is_activo": 1,
+          "orden": 1
+        },
+        {
+          "subcategoria_id": 2,
+          "category_id": 1,
+          "nombre": "Tiraditos de la Casa",
+          "is_activo": 1,
+          "orden": 2
+        }
+      ],
+      "productos": [
+        {
+          "product_id": 1,
+          "cod_producto": "RES-001",
+          "name": "Cebiche Clasico de Mero",
+          "marca_des": "Don Mero",
+          "price": 38.00,
+          "description": "Filete de mero fresco marinero con limon sutil, cebolla roja y rocoto",
+          "variantes_json": {
+            "precio_anterior": 45.00,
+            "etiqueta": "Oferta",
+            "rating": 4.8,
+            "reviews": 42,
+            "destacado": true,
+            "stock": 25,
+            "especificaciones": {
+              "Porcion": "Personal",
+              "Pescado": "Mero",
+              "Picante": "Medio"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 1,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 11,
+              "product_id": 1,
+              "cod_producto": "RES-001",
+              "img": "https://picsum.photos/seed/prod-1-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            },
+            {
+              "product_image_id": 12,
+              "product_id": 1,
+              "cod_producto": "RES-001",
+              "img": "https://picsum.photos/seed/prod-1-2/800/800",
+              "orden": 2,
+              "is_visible": 1
+            }
+          ]
+        },
+        {
+          "product_id": 2,
+          "cod_producto": "RES-002",
+          "name": "Cebiche Mixto Carretero",
+          "marca_des": "Don Mero",
+          "price": 42.00,
+          "description": "Combinacion de pescado del dia y mariscos seleccionados con leche de tigre",
+          "variantes_json": {
+            "precio_anterior": 0.00,
+            "etiqueta": "Más vendido",
+            "rating": 4.9,
+            "reviews": 55,
+            "destacado": true,
+            "stock": 18,
+            "especificaciones": {
+              "Porcion": "Mediana",
+              "Insumos": "Pescado y mariscos",
+              "Acompañamiento": "Cancha y camote"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 1,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 21,
+              "product_id": 2,
+              "cod_producto": "RES-002",
+              "img": "https://picsum.photos/seed/prod-2-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            },
+            {
+              "product_image_id": 22,
+              "product_id": 2,
+              "cod_producto": "RES-002",
+              "img": "https://picsum.photos/seed/prod-2-2/800/800",
+              "orden": 2,
+              "is_visible": 1
+            }
+          ]
+        },
+        {
+          "product_id": 3,
+          "cod_producto": "RES-003",
+          "name": "Tiradito en Crema de Aji Amarillo",
+          "marca_des": "Costa Gourmet",
+          "price": 40.00,
+          "description": "Finos cortes de pescado bañado en suave salsa de aji amarillo peruano",
+          "variantes_json": {
+            "precio_anterior": 0.00,
+            "etiqueta": "Nuevo",
+            "rating": 4.6,
+            "reviews": 12,
+            "destacado": false,
+            "stock": 15,
+            "especificaciones": {
+              "Corte": "Laminado fino",
+              "Salsa": "Aji amarillo",
+              "Porcion": "Personal"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 2,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 31,
+              "product_id": 3,
+              "cod_producto": "RES-003",
+              "img": "https://picsum.photos/seed/prod-3-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            }
+          ]
+        },
+        {
+          "product_id": 4,
+          "cod_producto": "RES-004",
+          "name": "Tiradito Nikkei al Sillao",
+          "marca_des": "Costa Gourmet",
+          "price": 44.00,
+          "description": "Laminas de pescado con toque oriental de sillao, kion y aceite de ajonjoli",
+          "variantes_json": {
+            "precio_anterior": 48.00,
+            "etiqueta": "Oferta",
+            "rating": 4.7,
+            "reviews": 28,
+            "destacado": false,
+            "stock": 10,
+            "especificaciones": {
+              "Estilo": "Fusion Nikkei",
+              "Salsa": "Sillao y kion",
+              "Porcion": "Personal"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 2,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 41,
+              "product_id": 4,
+              "cod_producto": "RES-004",
+              "img": "https://picsum.photos/seed/prod-4-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "name": "Platos Calientes y Arroces",
+      "icon": "🍛",
+      "brief": "Especialidades marinas calientes de la costa",
+      "color": "#E65100",
+      "priority": 2,
+      "neg_id": 5,
+      "categoria_global_id": null,
+      "is_activo": 1,
+      "clave_txt": "cat_platos-calientes-y-arroces",
+      "img": "https://picsum.photos/seed/poscat-platos-calientes-y-arroces/400/400",
+      "subcategorias": [
+        {
+          "subcategoria_id": 3,
+          "category_id": 2,
+          "nombre": "Arroces Marinos",
+          "is_activo": 1,
+          "orden": 1
+        },
+        {
+          "subcategoria_id": 4,
+          "category_id": 2,
+          "nombre": "Fritos y Sudados",
+          "is_activo": 1,
+          "orden": 2
+        }
+      ],
+      "productos": [
+        {
+          "product_id": 5,
+          "cod_producto": "RES-005",
+          "name": "Arroz con Mariscos Criollo",
+          "marca_des": "Sabor Norteño",
+          "price": 36.00,
+          "description": "Arroz jugoso cocinado con sofrito de mariscos frescos y culantro",
+          "variantes_json": {
+            "precio_anterior": 0.00,
+            "etiqueta": "Más vendido",
+            "rating": 4.9,
+            "reviews": 50,
+            "destacado": true,
+            "stock": 20,
+            "especificaciones": {
+              "Porcion": "Plato fundo",
+              "Mariscos": "Mix variado",
+              "Sabor": "Tradicional"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 3,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 51,
+              "product_id": 5,
+              "cod_producto": "RES-005",
+              "img": "https://picsum.photos/seed/prod-5-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            },
+            {
+              "product_image_id": 52,
+              "product_id": 5,
+              "cod_producto": "RES-005",
+              "img": "https://picsum.photos/seed/prod-5-2/800/800",
+              "orden": 2,
+              "is_visible": 1
+            }
+          ]
+        },
+        {
+          "product_id": 6,
+          "cod_producto": "RES-006",
+          "name": "Arroz Chaufa de Mariscos",
+          "marca_des": "Sabor Norteño",
+          "price": 35.00,
+          "description": "Fusion peruano-oriental con mariscos salteados al wok a alta temperatura",
+          "variantes_json": {
+            "precio_anterior": 40.00,
+            "etiqueta": "Oferta",
+            "rating": 4.5,
+            "reviews": 19,
+            "destacado": false,
+            "stock": 14,
+            "especificaciones": {
+              "Coccion": "Al wok",
+              "Insumos": "Calamar y langostinos",
+              "Porcion": "Personal"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 3,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 61,
+              "product_id": 6,
+              "cod_producto": "RES-006",
+              "img": "https://picsum.photos/seed/prod-6-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            }
+          ]
+        },
+        {
+          "product_id": 7,
+          "cod_producto": "RES-007",
+          "name": "Sudado de Mero Norteño",
+          "marca_des": "Don Mero",
+          "price": 45.00,
+          "description": "Filete de mero sudado lentamente con chicha de jora, tomate y cebolla",
+          "variantes_json": {
+            "precio_anterior": 0.00,
+            "etiqueta": "Nuevo",
+            "rating": 4.8,
+            "reviews": 31,
+            "destacado": true,
+            "stock": 12,
+            "especificaciones": {
+              "Pescado": "Mero",
+              "Acompañamiento": "Yuca y arroz blanco",
+              "Caldo": "Concentrado"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 4,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 71,
+              "product_id": 7,
+              "cod_producto": "RES-007",
+              "img": "https://picsum.photos/seed/prod-7-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            },
+            {
+              "product_image_id": 72,
+              "product_id": 7,
+              "cod_producto": "RES-007",
+              "img": "https://picsum.photos/seed/prod-7-2/800/800",
+              "orden": 2,
+              "is_visible": 1
+            }
+          ]
+        },
+        {
+          "product_id": 8,
+          "cod_producto": "RES-008",
+          "name": "Jalea Mixta Crocante",
+          "marca_des": "Costa Gourmet",
+          "price": 46.00,
+          "description": "Chicharrones de pescado y mariscos fritos acompañados de yuca y zarza criolla",
+          "variantes_json": {
+            "precio_anterior": 52.00,
+            "etiqueta": "Oferta",
+            "rating": 4.7,
+            "reviews": 40,
+            "destacado": false,
+            "stock": 16,
+            "especificaciones": {
+              "Textura": "Crocante",
+              "Salsa": "Sarza criolla",
+              "Porcion": "Para compartir"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 4,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 81,
+              "product_id": 8,
+              "cod_producto": "RES-008",
+              "img": "https://picsum.photos/seed/prod-8-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "name": "Entradas y Sopas",
+      "icon": "🥣",
+      "brief": "Inicios perfectos y chupines nutritivos",
+      "color": "#2E7D32",
+      "priority": 3,
+      "neg_id": 5,
+      "categoria_global_id": null,
+      "is_activo": 1,
+      "clave_txt": "cat_entradas-y-sopas",
+      "img": "https://picsum.photos/seed/poscat-entradas-y-sopas/400/400",
+      "subcategorias": [
+        {
+          "subcategoria_id": 5,
+          "category_id": 3,
+          "nombre": "Entradas Frias y Calientes",
+          "is_activo": 1,
+          "orden": 1
+        },
+        {
+          "subcategoria_id": 6,
+          "category_id": 3,
+          "nombre": "Sopas Marinas",
+          "is_activo": 1,
+          "orden": 2
+        }
+      ],
+      "productos": [
+        {
+          "product_id": 9,
+          "cod_producto": "RES-009",
+          "name": "Causa Rellena de Pulpa de Cangrejo",
+          "marca_des": "Costa Gourmet",
+          "price": 28.00,
+          "description": "Papa amarilla prensada con aji amarillo rellena de pulpa de cangrejo y palta",
+          "variantes_json": {
+            "precio_anterior": 0.00,
+            "etiqueta": null,
+            "rating": 4.6,
+            "reviews": 15,
+            "destacado": false,
+            "stock": 20,
+            "especificaciones": {
+              "Base": "Papa amarilla",
+              "Relleno": "Cangrejo",
+              "Porcion": "Entrada"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 5,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 91,
+              "product_id": 9,
+              "cod_producto": "RES-009",
+              "img": "https://picsum.photos/seed/prod-9-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            }
+          ]
+        },
+        {
+          "product_id": 10,
+          "cod_producto": "RES-010",
+          "name": "Leche de Tigre Tradicional",
+          "marca_des": "Don Mero",
+          "price": 22.00,
+          "description": "Concentrado de jugo de limon, trozos de pescado, culantro y maiz tostado",
+          "variantes_json": {
+            "precio_anterior": 25.00,
+            "etiqueta": "Oferta",
+            "rating": 4.8,
+            "reviews": 35,
+            "destacado": true,
+            "stock": 22,
+            "especificaciones": {
+              "Vaso": "Mediano",
+              "Contenido": "Jugos y trozos",
+              "Acompañamiento": "Cancha"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 5,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 101,
+              "product_id": 10,
+              "cod_producto": "RES-010",
+              "img": "https://picsum.photos/seed/prod-10-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            },
+            {
+              "product_image_id": 102,
+              "product_id": 10,
+              "cod_producto": "RES-010",
+              "img": "https://picsum.photos/seed/prod-10-2/800/800",
+              "orden": 2,
+              "is_visible": 1
+            }
+          ]
+        },
+        {
+          "product_id": 11,
+          "cod_producto": "RES-011",
+          "name": "Chupe de Camarones",
+          "marca_des": "Sabor Norteño",
+          "price": 42.00,
+          "description": "Sopa espesa tradicional con camarones, arroz, choclo, leche y huevo pochado",
+          "variantes_json": {
+            "precio_anterior": 0.00,
+            "etiqueta": "Más vendido",
+            "rating": 4.9,
+            "reviews": 48,
+            "destacado": false,
+            "stock": 10,
+            "especificaciones": {
+              "Insumo principal": "Camarones",
+              "Consistencia": "Espesa",
+              "Porcion": "Plato fundo"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 6,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 111,
+              "product_id": 11,
+              "cod_producto": "RES-011",
+              "img": "https://picsum.photos/seed/prod-11-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            }
+          ]
+        },
+        {
+          "product_id": 12,
+          "cod_producto": "RES-012",
+          "name": "Chilcano de Pescado Concentrado",
+          "marca_des": "Don Mero",
+          "price": 20.00,
+          "description": "Caldo concentrado de cabezas de pescado con hierbas aromaticas y toque de limon",
+          "variantes_json": {
+            "precio_anterior": 0.00,
+            "etiqueta": null,
+            "rating": 4.7,
+            "reviews": 22,
+            "destacado": false,
+            "stock": 25,
+            "especificaciones": {
+              "Tipo": "Caldo caliente",
+              "Porcion": "Taza grande",
+              "Efecto": "Vigorizante"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 6,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 121,
+              "product_id": 12,
+              "cod_producto": "RES-012",
+              "img": "https://picsum.photos/seed/prod-12-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 4,
+      "name": "Cocteles y Bebidas",
+      "icon": "🍸",
+      "brief": "Bebidas a base de pisco y refrescos tradicionales",
+      "color": "#6A1B9A",
+      "priority": 4,
+      "neg_id": 5,
+      "categoria_global_id": null,
+      "is_activo": 1,
+      "clave_txt": "cat_cocteles-y-bebidas",
+      "img": "https://picsum.photos/seed/poscat-cocteles-y-bebidas/400/400",
+      "subcategorias": [
+        {
+          "subcategoria_id": 7,
+          "category_id": 4,
+          "nombre": "Cocteles de Pisco",
+          "is_activo": 1,
+          "orden": 1
+        },
+        {
+          "subcategoria_id": 8,
+          "category_id": 4,
+          "nombre": "Bebidas y Refrescos",
+          "is_activo": 1,
+          "orden": 2
+        }
+      ],
+      "productos": [
+        {
+          "product_id": 13,
+          "cod_producto": "RES-013",
+          "name": "Pisco Sour Clasico de la Casa",
+          "marca_des": "Tres Cruces",
+          "price": 22.00,
+          "description": "Pisco acholado, jugo de limon sutil, clara de huevo y gotas de amargo de angostura",
+          "variantes_json": {
+            "precio_anterior": 26.00,
+            "etiqueta": "Oferta",
+            "rating": 4.9,
+            "reviews": 60,
+            "destacado": true,
+            "stock": 30,
+            "especificaciones": {
+              "Alcohol": "Pisco acholado",
+              "Presentacion": "Copa helada",
+              "Volumen": "8 oz"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 7,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 131,
+              "product_id": 13,
+              "cod_producto": "RES-013",
+              "img": "https://picsum.photos/seed/prod-13-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            },
+            {
+              "product_image_id": 132,
+              "product_id": 13,
+              "cod_producto": "RES-013",
+              "img": "https://picsum.photos/seed/prod-13-2/800/800",
+              "orden": 2,
+              "is_visible": 1
+            }
+          ]
+        },
+        {
+          "product_id": 14,
+          "cod_producto": "RES-014",
+          "name": "Chilcano de Maracuya",
+          "marca_des": "Tres Cruces",
+          "price": 20.00,
+          "description": "Pisco puro, concentrado de maracuya fresco, ginger ale y hielo en cubos",
+          "variantes_json": {
+            "precio_anterior": 0.00,
+            "etiqueta": "Nuevo",
+            "rating": 4.7,
+            "reviews": 25,
+            "destacado": false,
+            "stock": 25,
+            "especificaciones": {
+              "Sabor": "Maracuya",
+              "Bebida": "Ginger ale",
+              "Volumen": "10 oz"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 7,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 141,
+              "product_id": 14,
+              "cod_producto": "RES-014",
+              "img": "https://picsum.photos/seed/prod-14-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            }
+          ]
+        },
+        {
+          "product_id": 15,
+          "cod_producto": "RES-015",
+          "name": "Chicha Morada Artesanal",
+          "marca_des": "Costa Gourmet",
+          "price": 10.00,
+          "description": "Bebida elaborada a base de maiz morado hervido con frutas y toque de limon",
+          "variantes_json": {
+            "precio_anterior": 0.00,
+            "etiqueta": "Más vendido",
+            "rating": 4.8,
+            "reviews": 38,
+            "destacado": false,
+            "stock": 40,
+            "especificaciones": {
+              "Preparacion": "Del dia",
+              "Jarra": "1 Litro",
+              "Dulzor": "Balanceado"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 8,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 151,
+              "product_id": 15,
+              "cod_producto": "RES-015",
+              "img": "https://picsum.photos/seed/prod-15-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            }
+          ]
+        },
+        {
+          "product_id": 16,
+          "cod_producto": "RES-016",
+          "name": "Limonada Frozen con Hierba Luisa",
+          "marca_des": "Costa Gourmet",
+          "price": 12.00,
+          "description": "Limonada granizada infusionada con hojas frescas de hierba luisa",
+          "variantes_json": {
+            "precio_anterior": 14.00,
+            "etiqueta": "Oferta",
+            "rating": 4.6,
+            "reviews": 18,
+            "destacado": false,
+            "stock": 35,
+            "especificaciones": {
+              "Textura": "Granizada",
+              "Aroma": "Hierba luisa",
+              "Vaso": "Grande"
+            }
+          },
+          "neg_id": 5,
+          "subcategoria_id": 8,
+          "is_visible": 1,
+          "imagenes": [
+            {
+              "product_image_id": 161,
+              "product_id": 16,
+              "cod_producto": "RES-016",
+              "img": "https://picsum.photos/seed/prod-16-1/800/800",
+              "orden": 1,
+              "is_visible": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sliders": [
+    {
+      "slider_id": 1,
+      "img": "https://picsum.photos/seed/slider-1/1000/760",
+      "orden": 1,
+      "is_visible": 1,
+      "fecha_creacion": "2026-11-09 09:00:00",
+      "fecha_fin": "2027-01-09 23:59:59",
+      "neg_id": 5,
+      "grupo": "A",
+      "descripcion": "Disfruta de la mejor seleccion de pescados y mariscos frescos extraidos de nuestro litoral peruano.",
+      "titulo_superior": "Sabor Marino Autentico"
+    },
+    {
+      "slider_id": 2,
+      "img": "https://picsum.photos/seed/slider-2/1000/760",
+      "orden": 2,
+      "is_visible": 1,
+      "fecha_creacion": "2026-11-09 09:00:00",
+      "fecha_fin": "2027-01-09 23:59:59",
+      "neg_id": 5,
+      "grupo": "A",
+      "descripcion": "Aprovecha nuestras ofertas especiales en cebiches clasicos y combos familiares todos los fines de semana.",
+      "titulo_superior": "Promociones Imperdibles"
+    },
+    {
+      "slider_id": 3,
+      "img": "https://picsum.photos/seed/slider-3/1000/760",
+      "orden": 3,
+      "is_visible": 1,
+      "fecha_creacion": "2026-11-09 09:00:00",
+      "fecha_fin": "2027-01-09 23:59:59",
+      "neg_id": 5,
+      "grupo": "A",
+      "descripcion": "Relájate en nuestra barra marina con los mejores pisco sours y chilcanos preparados al instante.",
+      "titulo_superior": "Barra y Cocteleria Fina"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Montserrat:wght@400;500;700&family=Allura&display=swap');
+:root{
+  --bg:#F6EBDD; --primary:#70452F; --secondary:#C58B62; --accent:#D7B66D; --text:#33251F;
+  --font-title:'Cormorant Garamond'; --font-body:'Montserrat'; --font-deco:'Allura';
+  --title-weight:700; --title-case:none;
+}

@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Sans:wght@400;500;700&family=Caveat:wght@600&display=swap');
+:root{
+  --bg:#FFF4DF; --primary:#F04B2D; --secondary:#F28AA8; --accent:#F6A66F; --text:#3B2925;
+  --font-title:'Archivo Black'; --font-body:'DM Sans'; --font-deco:'Caveat';
+  --title-weight:400; --title-case:uppercase;
+}

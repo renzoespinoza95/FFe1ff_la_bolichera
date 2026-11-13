@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Plus+Jakarta+Sans:wght@400;500;700&family=Permanent+Marker&display=swap');
+:root{
+  --bg:#F7F7FF; --primary:#5638E5; --secondary:#FF4D9D; --accent:#C5F467; --text:#202039;
+  --font-title:'Space Grotesk'; --font-body:'Plus Jakarta Sans'; --font-deco:'Permanent Marker';
+  --title-weight:700; --title-case:uppercase;
+}
