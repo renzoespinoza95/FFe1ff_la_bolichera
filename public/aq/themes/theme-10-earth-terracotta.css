@@ -1,6 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Work+Sans:wght@400;500;700&family=Caveat:wght@600&display=swap');
-:root{
-  --bg:#F7EEE2; --primary:#A64B32; --secondary:#C98B63; --accent:#6F7650; --text:#392C25;
-  --font-title:'Fraunces'; --font-body:'Work Sans'; --font-deco:'Caveat';
-  --title-weight:700; --title-case:none;
-}

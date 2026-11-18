@@ -218,6 +218,13 @@ h1, h2, h3, h4, .title {
   #categorias { margin-top: -90px; }
   #categorias::before { top: 80px; } #categorias::after { top: 149px; }
   .hero .carousel-indicators { margin-bottom: 120px; }
+  .ratio-16x9 {
+    aspect-ratio: 4 / 3 !important; /* Un formato más cuadrado y alto que 16:9 */
+    height: 650px;
+  }
+  .ratio-16x9 iframe {
+    height: 100% !important;
+  }
 }
 @media (max-width: 767px) {
   .header-side:not(.end) { display: none; }

@@ -1,6 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Rubik:wght@400;500;700&family=Pacifico&display=swap');
-:root{
-  --bg:#FFF8E8; --primary:#F05A28; --secondary:#00A896; --accent:#FFD166; --text:#3A3025;
-  --font-title:'Fredoka'; --font-body:'Rubik'; --font-deco:'Pacifico';
-  --title-weight:600; --title-case:uppercase;
-}

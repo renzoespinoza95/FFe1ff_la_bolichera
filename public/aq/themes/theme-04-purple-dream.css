@@ -1,6 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=Poppins:wght@400;500;700&family=Sacramento&display=swap');
-:root{
-  --bg:#F8F1FF; --primary:#7928CA; --secondary:#E28AD5; --accent:#FFB86C; --text:#30213D;
-  --font-title:'Syne'; --font-body:'Poppins'; --font-deco:'Sacramento';
-  --title-weight:800; --title-case:uppercase;
-}

@@ -1,6 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700;800&family=Open+Sans:wght@400;600;700&family=Lora:wght@500;700&display=swap');
-:root{
-  --bg:#F4F7FC; --primary:#173B70; --secondary:#3977C3; --accent:#E9AD4B; --text:#202B3C;
-  --font-title:'Manrope'; --font-body:'Open Sans'; --font-deco:'Lora';
-  --title-weight:800; --title-case:uppercase;
-}

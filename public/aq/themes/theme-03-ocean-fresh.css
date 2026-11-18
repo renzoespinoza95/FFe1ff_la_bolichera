@@ -1,6 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Nunito+Sans:wght@400;700&family=Caveat:wght@600&display=swap');
-:root{
-  --bg:#F0FAFA; --primary:#007F91; --secondary:#36BFC1; --accent:#FFB86B; --text:#183B45;
-  --font-title:'Montserrat'; --font-body:'Nunito Sans'; --font-deco:'Caveat';
-  --title-weight:800; --title-case:uppercase;
-}

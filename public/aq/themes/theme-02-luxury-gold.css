@@ -1,6 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lato:wght@400;700&family=Allura&display=swap');
-:root{
-  --bg:#F8F3E9; --primary:#9B7545; --secondary:#D6B879; --accent:#28251F; --text:#39342D;
-  --font-title:'Playfair Display'; --font-body:'Lato'; --font-deco:'Allura';
-  --title-weight:700; --title-case:none;
-}

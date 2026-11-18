@@ -1,6 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600;700&family=Nunito:wght@400;700&family=Allura&display=swap');
-:root{
-  --bg:#FFF3F5; --primary:#D63384; --secondary:#F7A8C4; --accent:#EFA45B; --text:#48283A;
-  --font-title:'Outfit'; --font-body:'Nunito'; --font-deco:'Allura';
-  --title-weight:700; --title-case:uppercase;
-}

@@ -1,6 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;700&family=Permanent+Marker&display=swap');
-:root{
-  --bg:#F3F3F3; --primary:#171717; --secondary:#FF5A36; --accent:#B8B8B8; --text:#252525;
-  --font-title:'Bebas Neue'; --font-body:'Inter'; --font-deco:'Permanent Marker';
-  --title-weight:400; --title-case:uppercase;
-}
